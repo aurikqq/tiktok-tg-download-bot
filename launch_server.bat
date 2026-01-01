@@ -1,0 +1,1 @@
+telegram-bot-api\bin\telegram-bot-api.exe --local --api-id=8974004 --api-hash=b4df8f27c9a167bc6e19ea2445868ca1 --http-port=8099 --dir="D:\mine\bot\server_dir" --max-connections=100
